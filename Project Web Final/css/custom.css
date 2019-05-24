@@ -1,0 +1,37 @@
+#header {
+    background-color: #e6e6e3;
+}
+
+.menu-lite {
+    height: 38px;
+    background-color: black;
+}
+
+.menu-lite a {
+    color: white;
+    text-transform: uppercase;
+    font: bold 14px arial, sans-serif;
+}
+
+.row {
+    width: 980px;
+    height: 122px;
+    margin: auto;
+}
+
+.row .col-7 {
+    margin: 0xp 0px;
+    padding: 15px 0px;
+}
+
+.row .col-5 {
+    margin: 0xp 0px;
+    padding: 15px 0px;
+}
+
+.row .col-5 a {
+    text-transform: uppercase;
+    font: bold 12px arial, sans-serif;
+    margin-left: 13px;
+    color: #1b4977;
+}
